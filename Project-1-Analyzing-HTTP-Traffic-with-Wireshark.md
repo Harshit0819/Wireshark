@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, you'll learn how to use Wireshark to capture and analyze HTTP traffic. HTTP traffic analysis is crucial for understanding web communication, identifying potential security issues, and investigating anomalies in network traffic.
+In this project, I have learn that  how to use Wireshark to capture and analyze HTTP traffic. HTTP traffic analysis is crucial for understanding web communication, identifying potential security issues, and investigating anomalies in network traffic.
 
 ## Pre-requisites
 
@@ -80,4 +80,4 @@ In this project, you'll learn how to use Wireshark to capture and analyze HTTP t
 - Payload data from the HTTP response extracted and examined.
 
 ## Conclusion
-By completing these exercises, you have learned how to capture, filter, and analyze HTTP traffic using Wireshark. These skills are essential for understanding web communication, troubleshooting network issues, and performing security investigations.
+By completing these exercises, I have learned how to capture, filter, and analyze HTTP traffic using Wireshark. These skills are essential for understanding web communication, troubleshooting network issues, and performing security investigations.
